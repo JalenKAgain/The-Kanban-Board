@@ -22,7 +22,7 @@ const login = async (userInfo: UserLogin) => {
     throw error;
   }
 }; // TODO: make a POST request to the login route
-}
+
 
 
 
